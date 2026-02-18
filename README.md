@@ -6,7 +6,7 @@ A Java application that solves combinatorial optimization problems for disaster 
 
 ---
 
-## 🚨 Overview
+## Overview
 
 This system tackles three critical disaster logistics problems:
 
@@ -18,7 +18,7 @@ These are real-world combinatorial optimization problems relevant to emergency r
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 - **Backtracking Set Cover Algorithm** for optimal supply site placement
 - **Floyd-Warshall All-Pairs Shortest Path** (O(n³)) for distance computation
@@ -29,7 +29,7 @@ These are real-world combinatorial optimization problems relevant to emergency r
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 - **Language:** Java
 - **Algorithms:** 
@@ -45,7 +45,7 @@ These are real-world combinatorial optimization problems relevant to emergency r
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 disaster-relief-planner/
@@ -58,7 +58,7 @@ disaster-relief-planner/
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### Compile
 ```bash
@@ -83,7 +83,7 @@ Best tour: [Sea, Port, LV, Phoe, Sea]
 
 ---
 
-## 📝 Input Format
+## Input Format
 
 Graph data is stored in a custom adjacency list format:
 
@@ -111,7 +111,7 @@ Cities are represented by abbreviations:
 
 ---
 
-## 🧠 Algorithm Design
+## Algorithm Design
 
 ### 1. Set Cover (Supply Site Allocation)
 
@@ -169,7 +169,7 @@ for each intermediate vertex k:
 
 ---
 
-## 📊 Sample Output
+## Sample Output
 
 ```
 Enter city data filename: sample_data/road.csv
@@ -187,7 +187,7 @@ Total distance: 47
 
 ---
 
-## 🎯 Key Learning Outcomes
+## Key Learning Outcomes
 
 - Implemented **graph algorithms** from scratch (Floyd-Warshall, BFS, backtracking)
 - Solved **NP-hard combinatorial optimization problems** (Set Cover, TSP)
@@ -197,7 +197,7 @@ Total distance: 47
 
 ---
 
-## 💡 Real-World Applications
+## Real-World Applications
 
 ### Pharmaceutical R&D Supply Chain (Relevant to GSK)
 - **Warehouse Placement:** Optimize lab supply distribution centers
@@ -211,20 +211,20 @@ Total distance: 47
 
 ---
 
-## 🔗 Related Projects
+## Related Projects
 
 - [Doctor-Patient Scheduler](https://github.com/matthewsetiadi/doctor-patient-scheduler) - Healthcare resource allocation using backtracking
 - [Mini-NARS AGI System](https://github.com/matthewsetiadi/mini-nars-agi) - Artificial General Intelligence reasoner
 
 ---
 
-## 📝 License
+## License
 
 This is a course project developed for educational purposes at Temple University.
 
 ---
 
-## 👤 Author
+## Author
 
 **Matthew Setiadi**  
 B.S./M.S. Computational Data Science | Temple University  
