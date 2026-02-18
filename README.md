@@ -213,8 +213,8 @@ Total distance: 47
 
 ## Related Projects
 
-- [Doctor-Patient Scheduler](https://github.com/matthewsetiadi/doctor-patient-scheduler) - Healthcare resource allocation using backtracking
-- [Mini-NARS AGI System](https://github.com/matthewsetiadi/mini-nars-agi) - Artificial General Intelligence reasoner
+- [Doctor-Patient Scheduler](https://github.com/mtthwes/doctor-patient-scheduler) - Healthcare resource allocation using backtracking
+- [Mini-NARS AGI System](https://github.com/mtthwes/mini-nars-agi) - Artificial General Intelligence reasoner
 
 ---
 
